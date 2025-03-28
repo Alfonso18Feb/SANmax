@@ -14,3 +14,4 @@
 ### Estas fotos pasan por un Mutex para que solo haya una foto en la SAN cada vez.
 ### Luego otro Mutex deja que esta imagen sea cogida solo por un Max
 ### Finalmente te devuelve las imagenes que fueron creadas las que estan siendo analizadas y las que ya han terminado
+## link: https://github.com/Alfonso18Feb/SANmax/tree/main
